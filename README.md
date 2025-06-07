@@ -1,5 +1,5 @@
 ## 🎥 Demo Video
-[Screen recording of the functionalities](https://drive.google.com/file/d/1p5iJff_--lCwwDna-K40DBY3eqj1fROS/view?usp=sharing)
+[Screen recording of the functionalities (click here)](https://drive.google.com/file/d/1p5iJff_--lCwwDna-K40DBY3eqj1fROS/view?usp=sharing)
 
 ## Screenshots
 
