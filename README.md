@@ -1,3 +1,17 @@
+## Screenshots
+
+### Homepage's Navbar
+![Homepage's Navbar](public/NavbarAndCarousel.png)
+
+### Food Cards
+![Food Cards](public/Cards.png)
+
+### Cart
+![Cart](public/Cart.png)
+
+### Order History
+![Order History](public/OrderHistory.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
